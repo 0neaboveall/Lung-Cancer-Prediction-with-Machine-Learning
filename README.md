@@ -31,6 +31,12 @@ This project applies machine learning techniques to predict lung cancer using pa
 4. **Evaluation Metrics:**
    - Confusion matrix, accuracy, AUC, and ROC curves.
 
+## Key Results
+
+- Achieved high accuracy in predicting lung cancer risk using Naive Bayes and Decision Tree models.
+- Highlighted significant predictors and their influence on early detection of lung cancer.
+- Provided interpretable decision-making insights for healthcare providers.
+
 ## Repository Structure
 
 1. Clone the repository:

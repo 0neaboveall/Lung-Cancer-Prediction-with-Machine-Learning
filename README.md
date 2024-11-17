@@ -18,12 +18,6 @@ This project applies machine learning techniques to predict lung cancer using pa
   - Conversion of categorical variables to factors.
   - Scaling and centering of numerical variables for normalization.
 
-## Goals
-
-1. Build a machine learning model to predict lung cancer risk.
-2. Identify key health factors contributing to lung cancer.
-3. Evaluate model performance using metrics like accuracy, AUC, and ROC curves.
-
 ## Methodology
 
 1. **Data Preprocessing:**
@@ -36,19 +30,6 @@ This project applies machine learning techniques to predict lung cancer using pa
    - **Decision Tree:** Offers transparent and interpretable decision rules.
 4. **Evaluation Metrics:**
    - Confusion matrix, accuracy, AUC, and ROC curves.
-
-## Results
-
-- **Naive Bayes Model:**
-  - **Accuracy:** 88.7%
-  - **AUC:** 0.896
-  - Performs well in distinguishing lung cancer cases.
-- **Decision Tree Model:**
-  - **Accuracy:** 84%
-  - **AUC:** 0.84
-  - Highlights key predictors like allergies, coughing, and anxiety.
-- **Key Insights:**
-  - Early predictors include difficulty swallowing, coughing severity, and anxiety levels.
 
 ## Repository Structure
 

@@ -39,6 +39,8 @@ This project applies machine learning techniques to predict lung cancer using pa
 
 ## Repository Structure
 
+## Usage
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/0neaboveall/Lung-Cancer-Prediction-with-Machine-Learning.git
